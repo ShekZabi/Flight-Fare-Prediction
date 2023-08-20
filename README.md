@@ -1,6 +1,5 @@
-# Flight Fare Prediction: 
-
-## Table of Content
+Flight Fare Prediction: 
+Table of Content
   * [Demo](#demo)
   * [Overview](#overview)
   * [Motivation](#motivation)
@@ -10,14 +9,13 @@
   * [Bug / Feature Request](#bug---feature-request)
   * [Future scope of project](#future-scope)
 
-## Overview
-This is a Flask web app which predicts fare of Flight ticket.
+Overview
+This is a Flask web app that predicts the fare of a Flight ticket.
 
-```
 
-## Future Scope
 
-* Use multiple Algorithms
-* Optimize Flask app.py
-* Front-End
-* Android Application - upscaling and combination of various airport fare webites to create a centralised application
+Future Scope
+1) Use multiple Algorithms
+2) Optimize Flask app.py
+3) Front-End
+4) Android Application - upscaling and combination of various airport fare websites to create a centralized application
